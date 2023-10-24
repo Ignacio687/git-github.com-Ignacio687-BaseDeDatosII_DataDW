@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SEIDOR93.base_operativa 1"
+  DTS:DTSID="{A0B95BC3-FC0A-4098-88F4-CD01ABFC3622}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=SEIDOR93;Initial Catalog=base_operativa;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Proyecto_DW-{A0B95BC3-FC0A-4098-88F4-CD01ABFC3622}SEIDOR93.base_operativa 1;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
